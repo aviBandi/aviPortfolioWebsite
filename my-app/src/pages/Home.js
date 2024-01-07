@@ -11,7 +11,7 @@ const Home = () => {
   {window.scrollTo(0, 0)}
   return (
     <main className=''>
-      <Nav />
+      <Nav className=""/>
       <div className='bg-orange-50'>
         <div className='relative px-4 sm:px-12'>
           <section className='bg:gray-100 xl:padding-l wide:padding-r sm:pb-12 pb-6 max-w-7xl mx-auto'>

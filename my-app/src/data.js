@@ -3,6 +3,7 @@ import bpaPic from "./images/bpaProjectPic.png"
 import blackjackPic from "./images/blackjackProjectPic.png"
 import hsmnPic from "./images/hsmnProjectPic.png"
 import trojanroboticsPic from "./images/trojanroboticsProjectPic.png"
+import financialyearlyreportsPic from "./images/financialyearlyreportsProjectPic.png"
 import counterzPic from "./images/counterzProjectPic.png"
 import shecanPic from "./images/shecanProjectPic.png"
 
@@ -39,10 +40,10 @@ const projectInfo = [
     },
     {
 
-        title: "Financial Yearly Reports - Code not available",
-        desc: "Donation statement analyzer, creater, and sender based on IRS regulations for 501(c)(3) nonprofits.",
+        title: "Financial Yearly Reports",
+        desc: "Donation statement analyzer, creater, and sender based on IRS regulations for 501(c)(3) nonprofits. Code and demo hidden as proprietary to my nonprofit internship.",
         skills: ["Python", "MongoDB", "PyGUI", "Google API's", "Miro",],
-        imgSrc: image,
+        imgSrc: financialyearlyreportsPic,
         websiteLink: "",
         codeLink: ""
     },

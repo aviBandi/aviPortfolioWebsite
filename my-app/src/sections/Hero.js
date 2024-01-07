@@ -9,11 +9,7 @@ import { useTypewriter, Cursor } from 'react-simple-typewriter'
 import { githubLink, linkedinLink } from '../data.js'
 import Avi from "../images/aviHeroPic.png"
 const Hero = () => {
-  // const statistics = [
-  //   { value: '250+', label: 'Workshops' },
-  //   { value: '3000+', label: 'Attendees' },
-  //   { value: '9+', label: 'Countries' },
-  // ]
+
   const [mytext] = useTypewriter({
     words: ['Web Developer', "Programmer", "Designer"],
     loop: {},
