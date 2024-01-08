@@ -11,6 +11,29 @@ import shecanPic from "./images/shecanProjectPic.png"
 const linkedinLink = "https://www.linkedin.com/in/avi-bandi-397279227/"
 const githubLink = "https://github.com/aviBandi"
 
+
+// Testimonial information
+const testimonialInfo = [
+    {
+        personName:"Deepak Balasubramni",
+        personTitle: "SheCan MN Director",
+        imgSrc: image,
+        testimonial:"Ut repellendus doloribus a accusantium eligendi est ducimus nihil aut numquam voluptas! Sit atque atque est amet quibusdam ut aliquid omnis et facere porro quo quia fugiat et sint quas dicta."
+    },
+    {
+        personName:"Deepak Balasubramni",
+        personTitle: "SheCan MN Director",
+        imgSrc: image,
+        testimonial:"Ut repellendus doloribus a accusantium eligendi est ducimus nihil aut numquam voluptas! Sit atque atque est amet quibusdam ut aliquid omnis et facere porro quo quia fugiat et sint quas dicta."
+    },    
+    {
+        personName:"Deepak Balasubramni",
+        personTitle: "SheCan MN Director",
+        imgSrc: image,
+        testimonial:"Ut repellendus doloribus a accusantium eligendi est ducimus nihil aut numquam voluptas! Sit atque atque est amet quibusdam ut aliquid omnis et facere porro quo quia fugiat et sint quas dicta."
+    }
+]
+
 // Project info which is on the Portfolio pages and the first three on home page
 const projectInfo = [
     {
@@ -71,8 +94,8 @@ const projectInfo = [
         desc: "Blackjack game anyone can play for fun or to sharpen their skills... also my first project in Java.",
         skills: ["Java", "User Friendliness", "Error Checking", "Game Audio"],
         imgSrc: blackjackPic,
-        websiteLink: "https://www.hindutemplemn.org/",
-        codeLink: "https://braydentw.io/projects"
+        websiteLink: "https://github.com/aviBandi/Blackjack-in-java",
+        codeLink: "https://github.com/aviBandi/Blackjack-in-java"
     },
     {
 
@@ -102,4 +125,6 @@ const servicesList = [
     }
 ]
 
-export {projectInfo, linkedinLink, githubLink, servicesList};
+
+
+export {projectInfo, linkedinLink, githubLink, servicesList, testimonialInfo};
