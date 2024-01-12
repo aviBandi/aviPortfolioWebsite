@@ -74,7 +74,7 @@ const Hero = () => {
       </div>
 
       <div className='relative flex-1 flex justify-center items-center xl:min-h-screen pt-28 max-xl:py-40 bg-center'>
-        <div className='mt-10 border-8 border-blue-500 rounded-full bg-blue-50 flex justify-center items-center relative z-10 '>
+        <div className='mt-10 border-8 border-blue-600 rounded-full bg-blue-50 flex justify-center items-center relative z-10 '>
           <img
             src={Avi}
             alt='shoe collection'
@@ -84,17 +84,7 @@ const Hero = () => {
         </div>
       </div>
 
-      {/* my code is below and the chatgpt code is above */}
-      {/* <div className='relative flex-1 flex justify-center items-center xl:min-h-screen pt-28 max-xl:py-40 bg-center '>
-        <div className='mt-10 border-8 border-blue-500 rounded-full bg-green-600'>
-          <img
-            src={AviTwo}
-            alt='shoe colletion'
-            width={500}
-            className='object-contain relative z-10 object-bottom'
-          />
-        </div>
-      </div> */}
+
     </section>
   )
 }
