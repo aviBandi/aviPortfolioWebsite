@@ -1,4 +1,4 @@
-import image from "./images/testing.png"
+import portfolioPic from "./images/aviportfoliowebsiteProjectPic.png"
 import bpaPic from "./images/bpaProjectPic.png"
 import blackjackPic from "./images/blackjackProjectPic.png"
 import hsmnPic from "./images/hsmnProjectPic.png"
@@ -75,9 +75,9 @@ const projectInfo = [
         title: "My Portfolio Website!",
         desc: "Can't make all those websites without one for myself! Check it out.",
         skills: ["TailwindCSS", "React.js", "Figma", "Vercel", "HTML", "NPM"],
-        imgSrc: image,
-        websiteLink: "https://braydentw.io/projects",
-        codeLink: "https://braydentw.io/projects"
+        imgSrc: portfolioPic,
+        websiteLink: "https://www.avibandi.com/",
+        codeLink: "https://github.com/aviBandi/aviPortfolioWebsite"
     },
     {
 
