@@ -8,6 +8,7 @@ import github from "../icons/github.svg"
 import { useTypewriter, Cursor } from 'react-simple-typewriter'
 import { githubLink, linkedinLink } from '../data.js'
 import Avi from "../images/aviHeroPic.png"
+import AviTwo from "../images/aviHeroPic2.png"
 const Hero = () => {
 
   const [mytext] = useTypewriter({
@@ -72,16 +73,28 @@ const Hero = () => {
         </div>
       </div>
 
-
-
-      <div className='relative flex-1 flex justify-center items-center xl:min-h-screen max-xl:py-40 bg-center'>
-        <img
-          src={Avi}
-          alt='shoe colletion'
-          width={500}
-          className='object-contain relative z-10 object-bottom'
-        />
+      <div className='relative flex-1 flex justify-center items-center xl:min-h-screen pt-28 max-xl:py-40 bg-center'>
+        <div className='mt-10 border-8 border-blue-500 rounded-full bg-blue-50 flex justify-center items-center relative z-10 '>
+          <img
+            src={Avi}
+            alt='shoe collection'
+            width={350}
+            className='object-contain object-bottom rounded-full'
+          />
+        </div>
       </div>
+
+      {/* my code is below and the chatgpt code is above */}
+      {/* <div className='relative flex-1 flex justify-center items-center xl:min-h-screen pt-28 max-xl:py-40 bg-center '>
+        <div className='mt-10 border-8 border-blue-500 rounded-full bg-green-600'>
+          <img
+            src={AviTwo}
+            alt='shoe colletion'
+            width={500}
+            className='object-contain relative z-10 object-bottom'
+          />
+        </div>
+      </div> */}
     </section>
   )
 }
