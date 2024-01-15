@@ -15,21 +15,21 @@ const githubLink = "https://github.com/aviBandi"
 // Testimonial information
 const testimonialInfo = [
     {
-        personName:"Deepak Balasubramni",
+        personName:"Shivani Saravaran",
         personTitle: "SheCan MN Director",
-        imgSrc: image,
+        imgSrc: bpaPic,
         testimonial:"Ut repellendus doloribus a accusantium eligendi est ducimus nihil aut numquam voluptas! Sit atque atque est amet quibusdam ut aliquid omnis et facere porro quo quia fugiat et sint quas dicta."
     },
     {
-        personName:"Deepak Balasubramni",
+        personName:"Shivani Saravaran",
         personTitle: "SheCan MN Director",
-        imgSrc: image,
+        imgSrc: bpaPic,
         testimonial:"Ut repellendus doloribus a accusantium eligendi est ducimus nihil aut numquam voluptas! Sit atque atque est amet quibusdam ut aliquid omnis et facere porro quo quia fugiat et sint quas dicta."
     },    
     {
-        personName:"Deepak Balasubramni",
+        personName:"Shivani Saravaran",
         personTitle: "SheCan MN Director",
-        imgSrc: image,
+        imgSrc: bpaPic,
         testimonial:"Ut repellendus doloribus a accusantium eligendi est ducimus nihil aut numquam voluptas! Sit atque atque est amet quibusdam ut aliquid omnis et facere porro quo quia fugiat et sint quas dicta."
     }
 ]
