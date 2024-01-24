@@ -10,10 +10,10 @@ const Testimonials = () => {
 
       </div>
       <p className='text-slate-gray mt-1 font-montserrat text-lg'>You don't have to take my word for it. Take theirs!</p>
-      <div className='grid grid-cols-1 sm:grid-cols-3 mt-16 gap-8'>
+      <div className='grid grid-cols-1 sm:grid-cols-2 mt-16 gap-8'>
         {
           testimonialInfo.map((testimonialInfo) => (
-            <div className='flex justify-center items-center'>
+            <div className='flex justify-center items-center w-full h-full'>
               <Testimonial testimonail={testimonialInfo.testimonial} 
               imageSrc={testimonialInfo.imgSrc} 
               personName={testimonialInfo.personName} 

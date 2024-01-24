@@ -6,6 +6,8 @@ import trojanroboticsPic from "./images/trojanroboticsProjectPic.png"
 import financialyearlyreportsPic from "./images/financialyearlyreportsProjectPic.png"
 import counterzPic from "./images/counterzProjectPic.png"
 import shecanPic from "./images/shecanProjectPic.png"
+import braydenPic from "./images/braydenTestimonialPic.jpg"
+import deepakPic from "./images/deepakTestimonialPic.jpg"
 
 // Social links which are on here and the footer
 const linkedinLink = "https://www.linkedin.com/in/avi-bandi-397279227/"
@@ -15,23 +17,23 @@ const githubLink = "https://github.com/aviBandi"
 // Testimonial information
 const testimonialInfo = [
     {
-        personName:"Shivani Saravaran",
+        personName:"Deepak Balasubramani",
         personTitle: "SheCan MN Director",
-        imgSrc: bpaPic,
-        testimonial:"Ut repellendus doloribus a accusantium eligendi est ducimus nihil aut numquam voluptas! Sit atque atque est amet quibusdam ut aliquid omnis et facere porro quo quia fugiat et sint quas dicta."
+        imgSrc: deepakPic,
+        testimonial:"The communication during the development was flawless and Avi did an amazing job, exceeding all of our expectations; his punctuality, meticulousness, and conscientiousness are unparalleled. "
     },
     {
-        personName:"Shivani Saravaran",
-        personTitle: "SheCan MN Director",
-        imgSrc: bpaPic,
-        testimonial:"Ut repellendus doloribus a accusantium eligendi est ducimus nihil aut numquam voluptas! Sit atque atque est amet quibusdam ut aliquid omnis et facere porro quo quia fugiat et sint quas dicta."
+        personName:"Brayden Wright",
+        personTitle: "Website Developer",
+        imgSrc: braydenPic,
+        testimonial:"I've worked with Avi, and he is an extremely fast learner when something new is thrown at him. He is dedicated to getting a task done, and works well with people. I would highly recommend any of Avi's services."
     },    
-    {
-        personName:"Shivani Saravaran",
-        personTitle: "SheCan MN Director",
-        imgSrc: bpaPic,
-        testimonial:"Ut repellendus doloribus a accusantium eligendi est ducimus nihil aut numquam voluptas! Sit atque atque est amet quibusdam ut aliquid omnis et facere porro quo quia fugiat et sint quas dicta."
-    }
+    // {
+    //     personName:"Shivani Saravaran",
+    //     personTitle: "SheCan MN Director",
+    //     imgSrc: bpaPic,
+    //     testimonial:"Ut repellendus doloribus a accusantium eligendi est ducimus nihil aut numquam voluptas! Sit atque atque est amet quibusdam ut aliquid omnis et facere porro quo quia fugiat et sint quas dicta."
+    // }
 ]
 
 // Project info which is on the Portfolio pages and the first three on home page
