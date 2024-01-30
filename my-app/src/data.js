@@ -54,8 +54,8 @@ const projectInfo = [
         desc: "State website that empowers women to explore STEM careers and fields.",
         skills: ["React.js", "TailwindCSS", "HTML", "Figma", "Vercel", "NPM"],
         imgSrc: shecanPic,
-        websiteLink: "https://braydentw.io/projects",
-        codeLink: "https://braydentw.io/projects"
+        websiteLink: "",
+        codeLink: ""
     },
     {
 
