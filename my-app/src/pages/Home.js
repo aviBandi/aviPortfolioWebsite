@@ -7,10 +7,14 @@ import Testimonials from '../sections/Testimonials'
 import GetInTouch from '../sections/GetInTouch'
 import Skills from '../sections/Skills'
 import Footer from "../components/Footer"
+import { Analytics } from '@vercel/analytics/react';
+
+
 const Home = () => {
   {window.scrollTo(0, 0)}
   return (
     <main className=''>
+      <Analytics />
       <Nav className=""/>
       <div className='bg-orange-50'>
         <div className='relative px-4 sm:px-12'>
