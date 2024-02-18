@@ -16,7 +16,7 @@ const Skills = () => {
     },
     {
       name: "TailwindCSS",
-      href: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+      href: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
     },
     {
       name: "Java",
