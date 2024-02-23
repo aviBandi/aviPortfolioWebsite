@@ -77,7 +77,7 @@ const Hero = () => {
         <div className='mt-10 border-8 border-blue-600 rounded-full bg-blue-50 flex justify-center items-center relative z-10 '>
           <img
             src={Avi}
-            alt='shoe collection'
+            alt='My Picture'
             width={350}
             className='object-contain object-bottom rounded-full'
           />
