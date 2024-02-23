@@ -110,13 +110,13 @@ const servicesList = [
     {
         title: "Company Website",
         description: "Custom company website with no hidden fees. Created by a world class designer, this website can scale your buisness to the next level.",
-        cost: "70",
+        cost: "150",
         whyMe: ["100% Code Ownership", "1 Year Warranty", "Website Updates", "Satisfaction Gauranteed"]
     },
     {
         title: "Custom Code Script",
         description: "Custom script for your buisness tailored to your needs. Allow you to acheive new heights with technology to do the heavy lifting.",
-        cost: "60",
+        cost: "125",
         whyMe: ["100% Code Ownership", "Python or Java", "Effecient clean code", "Intuitive GUI"]
     }
 ]
