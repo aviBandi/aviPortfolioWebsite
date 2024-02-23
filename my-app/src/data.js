@@ -115,7 +115,7 @@ const servicesList = [
     },
     {
         title: "Custom Code Script",
-        description: "Custom script for your buisness tailored to your needs. Allow you to acheive new heights with technology to do the heavy lifting.",
+        description: "Custom script for your buisness tailored to your needs. Allows you to acheive new heights with technology to do the heavy lifting.",
         cost: "125",
         whyMe: ["100% Code Ownership", "Python or Java", "Effecient clean code", "Intuitive GUI"]
     }
