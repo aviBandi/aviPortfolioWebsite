@@ -4,10 +4,13 @@ import blackjackPic from "./images/blackjackProjectPic.png"
 import hsmnPic from "./images/hsmnProjectPic.png"
 import trojanroboticsPic from "./images/trojanroboticsProjectPic.png"
 import financialyearlyreportsPic from "./images/financialyearlyreportsProjectPic.png"
+import youthVoterProjectPic from "./images/youthVoterProjectPic.png"
 import counterzPic from "./images/counterzProjectPic.png"
 import shecanPic from "./images/shecanProjectPic.png"
 import braydenPic from "./images/brayden.jpg"
 import deepakPic from "./images/deepak.jpg"
+
+
 // Social links which are on here and the footer
 const linkedinLink = "https://www.linkedin.com/in/avi-bandi-397279227/"
 const githubLink = "https://github.com/aviBandi"
@@ -83,6 +86,15 @@ const projectInfo = [
         imgSrc: hsmnPic,
         websiteLink: "https://www.hindutemplemn.org/",
         codeLink: ""
+    },
+    {
+
+        title: "Youth Voter Project (In Development)",
+        desc: "Connecting teens to democracy!",
+        skills: ["React.js", "TailwindCSS", "HTML", "NPM", "Figma"],
+        imgSrc: youthVoterProjectPic,
+        websiteLink: "https://www.youthvoterproject.org/",
+        codeLink: "https://github.com/aviBandi/youthVoterProject"
     },
     {
 
