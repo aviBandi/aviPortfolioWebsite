@@ -38,7 +38,7 @@ const PriceCard = ({ title, description, cost, whyMe }) => {
                         </p>
                         <Link to="/contact">
                             <p className="mt-10 block w-full rounded-md bg-blue-600 px-3 py-2 text-center border-2 border-blue-600 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-blue-600 transition-colors">
-                                Contact Me
+                                Get a Competitive Quote
                             </p>
                         </Link>
                     </div>
