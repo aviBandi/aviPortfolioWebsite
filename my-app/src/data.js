@@ -49,7 +49,7 @@ const projectInfo = [
         skills: ["React.js", "TailwindCSS", "CSS", "HTML", "Vercel", "NPM"],
         imgSrc: trojanroboticsPic,
         websiteLink: "https://www.trojanrobotics.com/home",
-        codeLink: "https://github.com/aviBandi/RoboticsWebsite"
+        codeLink: "https://github.com/Team-2264/RoboticsWebsite"
     },
     {
 
