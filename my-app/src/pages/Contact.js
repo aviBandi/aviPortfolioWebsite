@@ -4,7 +4,7 @@ import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 
 export default function Contact() {
-  { window.scrollTo(0, 0) }
+  // { window.scrollTo(0, 0) }
 
   const form = useRef();
   const [formValues, setFormValues] = useState({
