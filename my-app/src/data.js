@@ -63,7 +63,7 @@ const projectInfo = [
     {
 
         title: "Financial Yearly Reports",
-        desc: "Donation statement analyzer, creater, and sender based on IRS regulations for 501(c)(3) nonprofits. Code and demo hidden as proprietary to my nonprofit internship.",
+        desc: "Donation statement analyzer, creater, and sender based on IRS regulations for 501(c)(3) nonprofits.",
         skills: ["Python", "MongoDB", "PyGUI", "Google API's", "Miro",],
         imgSrc: financialyearlyreportsPic,
         websiteLink: "",
